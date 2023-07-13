@@ -46,13 +46,3 @@ Evaluate the model: After training, the model is evaluated on a held-out dataset
 Iteratively improve the model: The model can be further improved by repeating the above steps with additional training data, modifying the feature extractor, or adjusting the training parameters.
 
 Once the NER tagger is trained, it can be used to recognize named entities in new, unseen text. SpaCy's NER tagger has achieved state-of-the-art performance on several benchmark datasets and is widely used in industry and research.
-
-
-
-Greetings everyone,
-
-Today is my final day at Goldman Sachs as I prepare to embark on a new phase in my professional career. Therefore, I would like to take a moment to express my deep appreciation for the amazing experiences and support I have received during my time here. It has been an extraordinary opportunity for personal and professional development, and I am genuinely grateful for all the memories I have made during my tenure.
-
-I have gained invaluable knowledge and skills from a multitude of individuals, and I will carry these lessons with me throughout my life. I would like to sincerely thank my team and colleagues for their guidance, mentorship, and collaborative efforts. I consider myself fortunate to have been a part of this prestigious organization.
-
-Once again, I extend my heartfelt gratitude for everything. As I embark on this new journey, I will cherish the lessons I've learned. Let's stay connected!
